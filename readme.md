@@ -1,7 +1,7 @@
 # EliteDevs
 
 <p align="center">
-  <img src="image_247d66.jpg" alt="EliteDevs Logo" width="200" />
+  <img src="imagelogo.png" alt="EliteDevs Logo" width="200" />
 </p>
 
 <p align="center">
