@@ -1,7 +1,7 @@
 # EliteDevs
 
 <p align="center">
-  <img src="imagelogo.png" alt="EliteDevs Logo" width="200" />
+  <img src="profile/imagelogo.png" alt="EliteDevs Logo" width="200" />
 </p>
 
 <p align="center">
